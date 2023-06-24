@@ -4,7 +4,7 @@
   "description": "Replaces the pixels of an image with Minecraft blocks!",
   "main": "index.js",
   "dependencies": {
-    "canvas": "^2.7.0",
+    "canvas": "^2.11.2",
     "color-diff": "^1.2.0",
     "image-size": "^1.0.0",
     "jimp": "^0.16.1"
